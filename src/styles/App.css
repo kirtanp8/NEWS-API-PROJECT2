@@ -134,6 +134,8 @@ hr {
 #category-search {
   display: flex;
   flex-wrap: wrap;
+  max-width: 250px;
+  min-width: 250px;
 }
 
 .search-options {
@@ -142,13 +144,27 @@ hr {
   z-index: 1;
   overflow: scroll;
   font-family: "Vast Shadow", cursive;
+  width: 80%;
 }
 
 #category {
   width: 80%;
+  color: white;
+  background-color: black;
+  border: 1px solid white;
 }
 
 .go-button {
   width: 20%;
   height: 50%;
+  color: white;
+  background-color: black;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+select {
+  color: white;
+  background-color: black;
+  border: 1px solid white;
 }

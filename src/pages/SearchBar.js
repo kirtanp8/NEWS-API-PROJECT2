@@ -21,13 +21,12 @@ const SearchBar = () => {
         }
       } 
       setSearch('')
+      window.location.reload(false)
     }
 
   const handleChange = (event) => {
       setSearch(event.target.value.toLowerCase());
    }
-
-   
     
     return (
       <>
@@ -41,15 +40,8 @@ const SearchBar = () => {
           onChange={handleChange}
         />  
         <input className="go-button" type="submit" value="GO" />
-      </form>
           <select className="search-options">
-        {categories.filter((val) => {
-          if (search === "") {
-            return val 
-          } else if (val.toLowerCase().includes(search)) {
-            return val
-          }
-        }).map((val, key) => {
+        {categories.map((val, key) => {
           return (
              <option 
              className="option" 
@@ -64,8 +56,8 @@ const SearchBar = () => {
         })
         }
         </select>
+        </form>
         </>
     );
 }
-
 export default SearchBar
