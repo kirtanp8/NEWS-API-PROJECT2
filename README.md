@@ -15,7 +15,7 @@ The website can be viewed here, however, we have found out that the **api only w
  
 # Inspiration
 
-For this project in pair programming we decided to go with a news website aggregator, where people can see the top news in the UK and read them in the place they were originally published. 
+For this project in pair programming we decided to go with a news website aggregator, where people can see the latest news in the UK and read the article in the place they were originally published. 
 
 The design was inspired by "The New York Times", the website being in black and white.
 
