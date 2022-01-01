@@ -44,6 +44,25 @@ We only had 48 hours to complete the hackathon, so the website doesn't have many
 * VS Code
 * Git and GitHub
 
+# Teamwork
+
+As far as teamwork goes, Monia and I worked really well together, we both used the VSCode LiveShare extension from Monia's desktop and discusssed every piece of code + descision when we started working together. However, without telling each other, myself and Monia had done some homework prior to the day we started working. I simply made the request to grab all the data with the function below so we could start manipulating the data and displaying it and Monia had already worked on the `navigation bar` and had made sure we can click on a page. We both surprised each other and I think it shows that we are both willing to go the extra mile for the team.
+
+```
+  useEffect(() => {
+    async function getNews() {
+      const response = await axios.get(
+      \\ We are happy to share our API KEY Below as its free to use
+        `https://newsapi.org/v2/top-headlines?country=gb&apiKey=f0043f2035b34ff3b5934f9f39e51873`
+      );
+      console.log(response.data.articles)
+      setNews(response.data.articles)
+    }
+    getNews()
+  }, [])
+
+``` 
+
 # Search-Bar
 
 
