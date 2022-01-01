@@ -63,11 +63,11 @@ As far as teamwork goes, Monia and I worked really well together, we both used t
 
 ``` 
 
-# Functionality 
+# Functionality - Teamwork
 
 **Search Bar**
 
-Below is a video displaying how our search bar works. 
+Below is a video displaying how our search bar works (something we worked on together). I think it's the best piece of JavaScript we have running in the background. I was really proud of this. First we loop through the possible list of categories the user can possibly search through using a `for loop`, `if` the user searches for one of the possible options listed in the `dropdown menu` they will be taken to the respective page. The user can also navigate through the dropdown menu and click on a possible category.
 
 https://user-images.githubusercontent.com/83728526/147846553-3a216e1c-1912-41b6-8f2f-b663a99b1222.mp4
 
