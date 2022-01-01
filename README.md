@@ -73,9 +73,33 @@ Below is a video displaying how our search bar works (something we worked on tog
 
 https://user-images.githubusercontent.com/83728526/147846553-3a216e1c-1912-41b6-8f2f-b663a99b1222.mp4
 
+**Returning News Articles from the API**
 
+To get the latest news articles we used the below function 
 
+```
+ const [news, setNews] = useState([])
 
+    useEffect(() => {
+      async function getNews() {
+        const response = await axios.get(
+          `https://newsapi.org/v2/top-headlines?country=gb&category=business&apiKey=f0043f2035b34ff3b5934f9f39e51873`
+        );
+        console.log(response.data.articles)
+        setNews(response.data.articles)
+      }
+      getNews()
+    }, [])
 
+```
+and then mapped through the `array` using the below method 
 
+```
+    <div className='business-positioning'>
+      {news.map((newspiece, i) => (
+        i <= 9 ? <BusinessStories key={news[i]} {...newspiece}/> : false
+       ))}
+     </div>
 
+```
+the api returned thousands of results but we only wanted to display a short number of them so decided to use a `ternary operator` to prevent all of the data being returned. The latest news articles were always placed at the beginning of the array. 
