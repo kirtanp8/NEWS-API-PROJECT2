@@ -27,13 +27,11 @@ First part was to make the homepage work with a few news and centering then in e
 
 When the homepage was working just fine, we started with the other pages that we set to have, those was 'Businnes', 'Sports' and 'Entertainment'.
 
-To set the other pages was easy, we just had to make something similar with the home page.
-
 When the other pages were working perfectly, we decided to add a search bar.
 
 That was the next step, when the search bar was working our job was done.
 
-We only had 48 hours to finish this project, so the website don't have many functionalities, but it work very well and satisfies the NVP.
+We only had 48 hours to complete the hackathon, so the website doesn't have many functionalities, but it works very well and satisfies the NVP.
 
 
 # Framework used
@@ -42,5 +40,4 @@ We only had 48 hours to finish this project, so the website don't have many func
 * ReactJS
 * Google Fonts
 * VS Code
-* Chrome
 * Git and GitHub
