@@ -63,8 +63,11 @@ As far as teamwork goes, Monia and I worked really well together, we both used t
 
 ``` 
 
-# Search-Bar
+# Functionality 
 
+**Search Bar**
+
+Below is a video displaying how our search bar works. 
 
 https://user-images.githubusercontent.com/83728526/147846553-3a216e1c-1912-41b6-8f2f-b663a99b1222.mp4
 
