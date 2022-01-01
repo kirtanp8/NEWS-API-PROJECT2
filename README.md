@@ -9,7 +9,9 @@ First pair programming project with GA.
 Designed a news website aggregator where you can see the latest news, using JavaScript, ReactJS and CSS. Timeframe: 48 hours.
 
 # Deployment
-to be done
+The website can be viewed here, however, we have found out that the **api only works locally**: https://montannews2021.netlify.app/ 
+
+
  
 # Inspiration
 
