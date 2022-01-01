@@ -65,7 +65,7 @@ As far as teamwork goes, Monia and I worked really well together, we both used t
 
 ``` 
 
-# Functionality
+# Development Process
 
 **Search Bar**
 
