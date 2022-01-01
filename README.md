@@ -42,7 +42,7 @@ We only had 48 hours to complete the hackathon, so the website doesn't have many
 * VS Code
 * Git and GitHub
 
-# Teamwork
+# Search-Bar
 
 
 https://user-images.githubusercontent.com/83728526/147846553-3a216e1c-1912-41b6-8f2f-b663a99b1222.mp4
