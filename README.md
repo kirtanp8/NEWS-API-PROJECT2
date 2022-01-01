@@ -41,3 +41,7 @@ We only had 48 hours to complete the hackathon, so the website doesn't have many
 * Google Fonts
 * VS Code
 * Git and GitHub
+
+# Teamwork
+
+# Individually
