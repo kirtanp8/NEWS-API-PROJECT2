@@ -23,19 +23,19 @@ The design was inspired by "The New York Times", the website being in black and 
 
 As we learnt through the course, it is best practice to start with a pseudocode.
 
-So we had a wireframe to show how we wanted the website to look like, and the pseudocode with all the functionalities we wanted to add.
+So we created a wireframe in order to have something to work off
 
 We used an API from where we could get the updated news.
 
-First part was to make the homepage work with a few news and centering then in each box.
+First part was to make sure displayed the right amount of news.
 
-When the homepage was working just fine, we started with the other pages that we set to have, those was 'Businnes', 'Sports' and 'Entertainment'.
+When the homepage was working just fine, we started working on the Sports, Business and Entertainment page.
 
 When the other pages were working perfectly, we decided to add a search bar.
 
 That was the next step, when the search bar was working our job was done.
 
-We only had 48 hours to complete the hackathon, so the website doesn't have many functionalities, but it works very well and satisfies the NVP.
+We only had 48 hours to complete the hackathon, so the website doesn't have a whole load of functionality, but it works very well and satisfies the MVP.
 
 
 # Framework used
@@ -48,7 +48,7 @@ We only had 48 hours to complete the hackathon, so the website doesn't have many
 
 # Teamwork
 
-As far as teamwork goes, Monia and I worked really well together, we both used the VSCode LiveShare extension from Monia's desktop and discusssed every piece of code + descision when we started working together. However, without telling each other, myself and Monia had done some homework prior to the day we started working. I simply made the request to grab all the data with the function below so we could start manipulating the data and displaying it and Monia had already worked on the `navigation bar` and had made sure we can click on a page. We both surprised each other and I think it shows that we are both willing to go the extra mile for the team.
+As far as teamwork goes, Monia and I worked really well together, we both used the VSCode LiveShare extension from Monia's desktop and discussed every piece of code and decision when we started working together. However, without telling each other, myself and Monia had done some homework prior to the day we started working. I simply made the request to grab all the data with the function below so we could start manipulating the data and display it on our website whilst Monia had already worked on the `navigation bar` and had made sure each route worked. We both surprised each other and I think it shows that we are both willing to go the extra mile for the team.
 
 ```
   useEffect(() => {
