@@ -114,7 +114,7 @@ the api returned thousands of results but we only wanted to display a short numb
 
 # Future Features
 
-* Pagination and displaying more data on different pages would make the website look finished.
+* Pagination: displaying more data on different pages would make the website look almost complete.
 
 # Key Learnings
 
