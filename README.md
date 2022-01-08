@@ -27,13 +27,11 @@ So we created a wireframe in order to have something to work off
 
 We used an API from where we could get the updated news.
 
-First part was to make sure displayed the right amount of news.
+First part was to make sure to display the right amount of news.
 
 When the homepage was working just fine, we started working on the Sports, Business and Entertainment page.
 
 When the other pages were working perfectly, we decided to add a search bar.
-
-That was the next step, when the search bar was working our job was done.
 
 We only had 48 hours to complete the hackathon, so the website doesn't have a whole load of functionality, but it works very well and satisfies the MVP.
 
@@ -75,7 +73,7 @@ https://user-images.githubusercontent.com/83728526/147846553-3a216e1c-1912-41b6-
 
 **Returning News Articles from the API**
 
-To get the latest news articles we used the below function 
+To get the latest news articles we used the below function. 
 
 ```
  const [news, setNews] = useState([])
@@ -103,3 +101,20 @@ and then mapped through the `array` using the below method
 
 ```
 the api returned thousands of results but we only wanted to display a short number of them so decided to use a `ternary operator` to prevent all of the data being returned. The latest news articles were always placed at the beginning of the array. 
+
+# Wins
+
+* Being able to get the data to successfully to display on each page with the power of Axios was of course a great win as this was the main source for being able to include more functionality to our website.
+* Learning where data is stored and being able to manipulate it so that it looked relevant to our design of the application was another win. 
+* Communication: I had of course worked in teams for daily challenges which came as practice for an import task that goes on both mine and Monia's portfolio and both of us being able to share and discuss our different ideas added to my team work experience for industry practices.  
+
+# Challenges
+
+* Having only 48 hours to work on a project with little React knowledge was not at all easy by any stretch.
+* It's also a win but reading the documentation 
+
+# Future Features
+
+# Key Learnings
+
+# Known Bugs
