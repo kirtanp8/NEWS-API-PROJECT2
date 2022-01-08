@@ -4,11 +4,12 @@ https://user-images.githubusercontent.com/83728526/147847390-7d09b88b-b510-4fa6-
 
 # Description
 
-First pair programming project with GA.
+First pair programming project with Monia.
 
 Designed a news website aggregator where you can see the latest news, using JavaScript, ReactJS and CSS. Timeframe: 48 hours.
 
-# Deployment
+# Overview
+
 The website can be viewed here, however, we have found out that the **api only works locally**: https://montannews2021.netlify.app/ 
 
 
@@ -73,7 +74,7 @@ https://user-images.githubusercontent.com/83728526/147846553-3a216e1c-1912-41b6-
 
 **Returning News Articles from the API**
 
-To get the latest news articles we used the below function. 
+To get the latest news articles we used the below function: 
 
 ```
  const [news, setNews] = useState([])
@@ -104,7 +105,7 @@ the api returned thousands of results but we only wanted to display a short numb
 
 # Wins
 
-* Being able to get the data to successfully to display on each page with the power of Axios was of course a great win as this was the main source for being able to include more functionality to our website.
+* Being able to get the data to successfully display on each page with the power of Axios was of course a great win as this was the main source for being able to include more functionality to our website.
 * Learning where data is stored and being able to manipulate it so that it looked relevant to our design of the application was another win. 
 
 # Challenges
