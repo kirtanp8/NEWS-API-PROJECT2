@@ -106,15 +106,18 @@ the api returned thousands of results but we only wanted to display a short numb
 
 * Being able to get the data to successfully to display on each page with the power of Axios was of course a great win as this was the main source for being able to include more functionality to our website.
 * Learning where data is stored and being able to manipulate it so that it looked relevant to our design of the application was another win. 
-* Communication: I had of course worked in teams for daily challenges which came as practice for an import task that goes on both mine and Monia's portfolio and both of us being able to share and discuss our different ideas added to my team work experience for industry practices.  
 
 # Challenges
 
-* Having only 48 hours to work on a project with little React knowledge was not at all easy by any stretch.
-* It's also a win but reading the documentation 
+* Having only 48 hours to work on a project with little React knowledge was not at all easy by any stretch but deciding on which parts of the app should be finished in order to reach the MVP prior to our presentation would have been the biggest challenge for us both.
 
 # Future Features
 
+* Pagination and displaying more data on different pages would make the website look finished.
+
 # Key Learnings
 
-# Known Bugs
+* The API only works locally meaning we can't deploy the website and had I of known this, I wouldn't have suggested to Monia that we should use this API.
+* Communication: I had of course worked in teams for daily challenges which came as practice for an import task that goes on both mine and Monia's portfolio and both of us being able to share and discuss our different ideas added to my team work experience for industry practices.  
+
+
