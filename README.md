@@ -118,6 +118,6 @@ the api returned thousands of results but we only wanted to display a short numb
 # Key Learnings
 
 * The API only works locally meaning we can't deploy the website and had I of known this, I wouldn't have suggested to Monia that we should use this API.
-* Communication: I had of course worked in teams for daily challenges which came as practice for an import task that goes on both mine and Monia's portfolio and both of us being able to share and discuss our different ideas added to my team work experience for industry practices.  
+* Communication: I had of course worked in teams for daily challenges which came as practice for this important task that goes on both mine and Monia's portfolio and both of us being able to share and discuss our different ideas added to my team work experience for industry practices.  
 
 
