@@ -4,7 +4,7 @@ https://user-images.githubusercontent.com/83728526/147847390-7d09b88b-b510-4fa6-
 
 # Description
 
-First pair programming project with Monia.
+First pair programming project with GA.
 
 Designed a news website aggregator where you can see the latest news, using JavaScript, ReactJS and CSS. Timeframe: 48 hours.
 
