@@ -4,15 +4,15 @@ https://user-images.githubusercontent.com/83728526/147847390-7d09b88b-b510-4fa6-
 
 # Description
 
-First pair programming project with GA. Team Member: [Monia](https://github.com/moniafavaro)
+My first pair programming project with GA. Team Member: [Monia](https://github.com/moniafavaro)
 
-Together we designed a news website aggregator where you can see the latest news, using JavaScript, ReactJS and CSS. Timeframe: 48 hours.
+Together we designed a news website aggregator where you can see the latest news, using JavaScript, ReactJS and CSS. 
+
+Timeframe: 48 hours.
 
 # Overview
 
 The website can be viewed here, however, we have found out that the **api only works locally**: https://montannews2021.netlify.app/ 
-
-
  
 # Inspiration
 
@@ -26,9 +26,9 @@ As we learnt through the course, it is best practice to start with a pseudocode.
 
 So we created a wireframe in order to have something to work off
 
-We used an API from where we could get the updated news.
+We used an API from where we could get the latest news.
 
-First part was to make sure to display the right amount of news.
+The first task was to make sure we were able to display the news on the homepage.
 
 When the homepage was working just fine, we started working on the Sports, Business and Entertainment page.
 
@@ -101,7 +101,7 @@ and then mapped through the `array` using the below method
      </div>
 
 ```
-the api returned thousands of results but we only wanted to display a short number of them so decided to use a `ternary operator` to prevent all of the data being returned. The latest news articles were always placed at the beginning of the array. 
+the api returned thousands of results but we only wanted to display a short number of them so decided to use a `ternary operator` to prevent all of the data being returned. The latest news articles were always placed at the beginning of the array which came in handy and always allowed us to display the latest news. 
 
 # Wins
 
